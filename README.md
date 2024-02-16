@@ -21,5 +21,5 @@ Unfortunately, this mod doesn't technically add a new weather type, but instead 
 - Initial Release
 ## Credits
 - This mod was forked from JohnPlantGit's [Hidden Weather mod](https://thunderstore.io/c/lethal-company/p/UnofficialJhonPlant/HiddenWeather/)
-- Thumbnail by [Deklou](https://gamebanana.com/members/2625217)
+- Thumbnail by [Deklou](https://www.youtube.com/channel/UCVuEI6LhImhJTCVwrfoIFCg)
 - Thanks to Mr. Person Man for telling me about the 1.0.0 crashes
