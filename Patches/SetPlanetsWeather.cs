@@ -23,7 +23,7 @@ namespace UnreliableWeatherReports.Patches
             double unknownDayChance = r.NextDouble();
 
             // For each of the moons
-            for (int i = 0; i < __instance.levels.Length; i++)
+            for (int i = 0; i < 128 /*__instance.levels.Length*/; i++) // I don't know how to get the number of total moons including custom ones
             {
                 // Roll for the unknown weather
                 double unknownWeatherChance = r.NextDouble();
